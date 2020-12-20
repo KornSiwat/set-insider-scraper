@@ -2,7 +2,7 @@
 
 ## Production Link
 
-[SCRAPER URL](https://set-insider-scraper.herokuapp.com)
+- [SCRAPER URL](https://set-insider-scraper.herokuapp.com)
 
 ## Members
 
